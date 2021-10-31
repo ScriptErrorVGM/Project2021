@@ -1,9 +1,12 @@
+import os
 from time import *
 import random
 import csv
 import time
 import threading
-from typing import Sized
+import sys
+import os
+
 def main():
 
     with open('problems.csv', newline='') as csvfile:
@@ -23,6 +26,10 @@ def main():
                 sleep(1)
             print()
             print('Out of time')
+            print(str(correctAnswers) + '/' + str(totalQuestions))
+            print('Время выполнения : ' + str(quizTime - myTimer) + ' секунд.')
+            print('Оставшееся время ' + str(myTimer))
+            os._exit(0)
 
         print('Время на выпонение теста ' + str(quizTime) + ' секунд')
         countdownThread = threading.Thread(target = countdown, daemon = True)
@@ -41,8 +48,5 @@ def main():
                     print(str(correctAnswers) + '/' + str(totalQuestions))
                     break
             break      
-        print(str(correctAnswers) + '/' + str(totalQuestions))
-        print('Время выполнения : ' + str(quizTime - myTimer) + ' секунд.')
-        print('Оставшееся время ' + str(myTimer))
 
 main()
