@@ -9,7 +9,7 @@ import os
 
 def main():
 
-    with open('problems.csv', newline='') as csvfile:
+    with open('problems1.csv', newline='') as csvfile:
 
         spamreader = csv.reader(csvfile, delimiter='\t', quotechar='|')
         totalQuestions = 0
@@ -47,6 +47,9 @@ def main():
                 if myTimer == 0:
                     print(str(correctAnswers) + '/' + str(totalQuestions))
                     break
-            break      
+            break     
 
+        print(str(correctAnswers) + '/' + str(totalQuestions))
+        print('Время выполнения : ' + str(quizTime - myTimer) + ' секунд.')
+        print('Оставшееся время ' + str(myTimer))
 main()
