@@ -1,9 +1,6 @@
 from time import *
-import random
 import csv
-import time
 import threading
-import sys
 import os
 
 def main():
