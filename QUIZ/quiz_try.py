@@ -41,12 +41,10 @@ def main():
                 userInput = input(question + ' ')
                 if userInput == answer:
                     correctAnswers += 1 
-                if myTimer == 0:
-                    print(str(correctAnswers) + '/' + str(totalQuestions))
-                    break
             break     
-            
+
         print(str(correctAnswers) + '/' + str(totalQuestions))
         print('Время выполнения : ' + str(quizTime - myTimer) + ' секунд.')
         print('Оставшееся время ' + str(myTimer))
-main()
+if __name__ == "__main__":
+    main()
