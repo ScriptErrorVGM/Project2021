@@ -11,7 +11,12 @@ def main():
         spamreader = csv.reader(csvfile, delimiter='\t', quotechar='|')
         totalQuestions = 0
         correctAnswers = 0
-        quizTime = 5
+        quizTime = 15
+
+        def answersInfo():
+            print(str(correctAnswers) + '/' + str(totalQuestions))
+            print('Время выполнения : ' + str(quizTime - myTimer) + ' секунд.')
+            print('Оставшееся время ' + str(myTimer))
 
         def countdown():
             global myTimer
@@ -23,9 +28,7 @@ def main():
                 sleep(1)
             print()
             print('Out of time')
-            print(str(correctAnswers) + '/' + str(totalQuestions))
-            print('Время выполнения : ' + str(quizTime - myTimer) + ' секунд.')
-            print('Оставшееся время ' + str(myTimer))
+            answersInfo()
             os._exit(0)
 
         print('Время на выпонение теста ' + str(quizTime) + ' секунд')
@@ -41,10 +44,7 @@ def main():
                 userInput = input(question + ' ')
                 if userInput == answer:
                     correctAnswers += 1 
-            break     
-
-        print(str(correctAnswers) + '/' + str(totalQuestions))
-        print('Время выполнения : ' + str(quizTime - myTimer) + ' секунд.')
-        print('Оставшееся время ' + str(myTimer))
+            break
+        answersInfo()
 if __name__ == "__main__":
     main()
