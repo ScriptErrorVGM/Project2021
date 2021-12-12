@@ -1,5 +1,7 @@
 def main():
     def isPrime(n):
+        if n == 1:
+            return False
         if n % 2 == 0:
             return n == 2
         d = 3
