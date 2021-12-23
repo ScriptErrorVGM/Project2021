@@ -21,15 +21,15 @@ def main():
     
     c = 0
     while c < len(trs.find_all('span', {"class" : "wrap"})):
-        mass_Country.append(trs.find_all('span', {"class" : "wrap"})[c])
+        mass_Country.append(trs.find_all('span', {"class" : "wrap"})[c].text)
         c += 1
 
     i = 2
     while i < len(trs.select('td')):
-        mass_HPI.append(trs.select('td')[i])
-        mass_Satis_Life.append(trs.select('td')[i+1])
-        mass_Long_Life.append(trs.select('td')[i+2])
-        mass_Eco.append(trs.select('td')[i+3])
+        mass_HPI.append(trs.select('td')[i].text)
+        mass_Satis_Life.append(trs.select('td')[i+1].text)
+        mass_Long_Life.append(trs.select('td')[i+2].text)
+        mass_Eco.append(trs.select('td')[i+3].text)
         i += 6
 
     df = pd.DataFrame({'Страна' : mass_Country, 'HPI' : mass_HPI, 
