@@ -26,10 +26,10 @@ def main():
 
     i = 2
     while i < len(trs.select('td')):
-        mass_HPI.append(trs.select('td')[i].text)
-        mass_Satis_Life.append(trs.select('td')[i+1].text)
-        mass_Long_Life.append(trs.select('td')[i+2].text)
-        mass_Eco.append(trs.select('td')[i+3].text)
+        mass_HPI.append(float(trs.select('td')[i].text))
+        mass_Satis_Life.append(float(trs.select('td')[i+1].text))
+        mass_Long_Life.append(float(trs.select('td')[i+2].text))
+        mass_Eco.append(float(trs.select('td')[i+3].text.strip()))
         i += 6
 
     df = pd.DataFrame({'Страна' : mass_Country, 'HPI' : mass_HPI, 
