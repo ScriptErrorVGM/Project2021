@@ -1,0 +1,1336 @@
+<!DOCTYPE html>
+<html class="no-js bg-fixed _no-bg" lang="" style="background-image:url(https://nplus1.ru/images/2021/12/09/b0a408f3e6b232c17b3fab7fda41197f.jpg)">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="ie=edge" http-equiv="x-ua-compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <meta content="yes" name="apple-mobile-web-app-capable"/>
+  <meta content="black" name="apple-mobile-web-app-status-bar-style"/>
+  <meta content="7991d7eb02d759f05b9050e111a7e3eb" name="wmail-verification">
+   <link href="https://nplus1.ru/news/2021/12/09/synthetic-gauge-field" rel="canonical"/>
+   <title>
+    Синтетическое калибровочное поле вынудило звук преломляться отрицательно
+   </title>
+   <meta content="2021-12-09" itemprop="datePublished">
+    <meta content="Марат Хамадеев" name="mediator_author">
+     <!-- amp page -->
+     <link href="https://nplus1.ru/news/2021/12/09/synthetic-gauge-field/amp" rel="amphtml"/>
+     <!-- for Google -->
+     <meta content="Это обнаружили экспериментально в акустическом метаматериале" name="description">
+      <meta content="Марат Хамадеев" name="author">
+       <meta content="" name="copyright"/>
+       <!-- for Facebook -->
+       <meta content="Синтетическое калибровочное поле вынудило звук преломляться отрицательно" property="og:title"/>
+       <meta content="https://nplus1.ru/images/2021/12/09/b0a408f3e6b232c17b3fab7fda41197f.jpg" property="og:image"/>
+       <meta content="https://nplus1.ru/news/2021/12/09/synthetic-gauge-field" property="og:url"/>
+       <meta content="Это обнаружили экспериментально в акустическом метаматериале" property="og:description"/>
+       <!-- for Twitter -->
+       <meta content="summary_large_image" name="twitter:card"/>
+       <meta content="@nplusodin" name="twitter:site">
+        <meta content="Синтетическое калибровочное поле вынудило звук преломляться отрицательно" name="twitter:title"/>
+        <meta content="Это обнаружили экспериментально в акустическом метаматериале" name="twitter:description"/>
+        <meta content="https://nplus1.ru/images/2021/12/09/b0a408f3e6b232c17b3fab7fda41197f.jpg" name="twitter:image"/>
+        <meta content="8c90b02c84ac3b72" name="yandex-verification"/>
+        <link href="https://nplus1.ru/rss" rel="alternate" title="RSS" type="application/rss+xml"/>
+        <link href="/css/font-awesome.min.css" rel="stylesheet"/>
+        <link href="/css/main.min.css?v=1638279331" rel="stylesheet"/>
+        <link href="/css/desktop.min.css?v=1452887696" rel="stylesheet"/>
+        <link href="/css/tablet.min.css?v=1499281342" rel="stylesheet"/>
+        <link href="/css/mobile.min.css?v=1635965090" rel="stylesheet"/>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js">
+        </script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js">
+        </script>
+        <script src="/js/lib/adfox.asyn.code.ver3.js" type="text/javascript">
+        </script>
+        <script src="/js/lib/adfox.asyn.code.scroll.js" type="text/javascript">
+        </script>
+        <script crossorigin="anonymous" src="https://yastatic.net/pcode/adfox/loader.js">
+        </script>
+        <script async="" id="__lxGc__rtr" src="//s.clickiocdn.com/t/195458/360.js" type="text/javascript">
+        </script>
+        <script async="" src="//s.luxupcdnc.com/t/common_402.js" type="text/javascript">
+        </script>
+        <!--  ad -->
+        <script type="text/javascript">
+         var __colAdLoaded = false;
+		    var __topAdLoaded = false;
+		    
+		    var __id = "";
+		    
+		    function detectAd(id){
+		        var _ad = document.getElementById("AdFox_banner_"+id);
+		    	    console.debug(_ad);
+		        
+		        __id = id;
+		        if(_ad != null && _ad.innerHTML == ""){
+		            $(".col-ad").remove();
+		        }
+		        __colAdLoaded = true;
+		    }
+		    function detectAdTop(id){
+		        __topAdLoaded = true;
+		    }
+        </script>
+        <!-- /ad -->
+        <script type="application/ld+json">
+         {"@context":"http://schema.org","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"https://nplus1.ru/news/2021/12/09/synthetic-gauge-field"},"headline":"Синтетическое калибровочное поле вынудило звук преломляться отрицательно","description":"Это обнаружили экспериментально в акустическом метаматериале","image":"https://nplus1.ru/images/2021/12/09/b0a408f3e6b232c17b3fab7fda41197f.jpg","author":{"@type":"Person","name":"Марат Хамадеев"},"publisher":{"@type":"Organization","name":"N + 1","logo":{"@type":"ImageObject","url":"https://nplus1.ru/i/logo-alt.png"}},"datePublished":"2021-12-09"}
+        </script>
+       </meta>
+      </meta>
+     </meta>
+    </meta>
+   </meta>
+  </meta>
+ </head>
+ <body class="_inner" style="background-image:url(https://nplus1.ru/images/2021/12/09/b0a408f3e6b232c17b3fab7fda41197f.jpg)">
+  <div class="shadow-overlay">
+  </div>
+  <link href="//s.luxupcdnc.com/cp/all/cookies_policy.css" property="" rel="stylesheet">
+   <script type="text/javascript">
+    _cookies_policy = {dark:0,bottom:1,text:'Этот сайт использует cookies для улучшения качества работы',link:'Подробнее',href:'https://nplus1.ru/cookies-policy',button:'Закрыть'};
+   </script>
+   <script async="" src="//s.luxupcdnc.com/cp/all/cookies_policy.js" type="text/javascript">
+   </script>
+   <div id="viewport">
+    <div id="shadow">
+    </div>
+    <div class="ad ad-top">
+     <!-- bh1 -->
+     <!--AdFox START-->
+     <!--yandex_nplus1adv-->
+     <!--Площадка: N + 1 / * / *-->
+     <!--Тип баннера: Растяжка_100%х250-->
+     <!--Расположение: <верх страницы>-->
+     <div id="adfox_162739969569252320">
+     </div>
+     <script>
+      window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 386110,
+        containerId: 'adfox_162739969569252320',
+            params: {
+                pp: 'g',
+            ps: 'fbio',
+            p2: 'hhkj'
+            }
+        })
+    })
+     </script>
+    </div>
+    <header id="header-mobile">
+     <div class="container">
+      <a class="action-menu pull-left" href="#">
+       <i class="icon icon-navicon">
+       </i>
+      </a>
+      <a class="link-logo" href="/">
+       <img src="/i/logo-mobile.png"/>
+      </a>
+      <a class="action-search pull-right" href="#">
+       <i class="icon icon-search">
+       </i>
+      </a>
+      <form action="/search" class="form-search" method="get">
+       <div class="control">
+        <input name="q" placeholder="Найти" type="text" value=""/>
+       </div>
+       <a class="action-search-close" href="#">
+        ×
+       </a>
+      </form>
+     </div>
+     <nav class="nav-rubrics">
+      <ul>
+       <li>
+        <a class="" href="/rubric/astronomy">
+         Астрономия
+        </a>
+       </li>
+       <li>
+        <a class="" href="/rubric/physics">
+         Физика
+        </a>
+       </li>
+       <li>
+        <a class="" href="/rubric/biology">
+         Биология
+        </a>
+       </li>
+       <li>
+        <a class="" href="/rubric/robots-drones">
+         Роботы и дроны
+        </a>
+       </li>
+       <li>
+        <a class="" href="/theme/applying-statistics">
+         Характеристика статистики
+        </a>
+       </li>
+       <li>
+        <a class="" href="/theme/bookshelf">
+         Книжная полка
+        </a>
+       </li>
+       <li>
+        <a class="" href="/theme/Courses">
+         Курсы
+        </a>
+       </li>
+       <li>
+        <a class="" href="/theme/coronavirus-history">
+         Коронавирусные хроники
+        </a>
+       </li>
+       <li>
+        <a class="" href="/theme/offline">
+         N + Offline
+        </a>
+       </li>
+      </ul>
+     </nav>
+    </header>
+    <div class="js-mediator-container" id="layout">
+     <!-- header -->
+     <header class="_middle" id="header">
+      <div class="row">
+       <div class="col col-logo">
+        <a class="link-logo" href="/">
+        </a>
+       </div>
+       <div class="col col-nav-main">
+        <form action="/search" class="form-search" method="get">
+         <div class="control">
+          <input name="q" placeholder="Найти" type="text" value=""/>
+         </div>
+         <a class="action-search-close" href="#">
+          ×
+         </a>
+        </form>
+        <nav class="nav-rubrics">
+         <ul>
+          <li>
+           <a class="" href="/rubric/astronomy">
+            Астрономия
+           </a>
+          </li>
+          <li>
+           <a class="" href="/rubric/physics">
+            Физика
+           </a>
+          </li>
+          <li>
+           <a class="" href="/rubric/biology">
+            Биология
+           </a>
+          </li>
+          <li>
+           <a class="" href="/rubric/robots-drones">
+            Роботы и дроны
+           </a>
+          </li>
+          <li>
+           <a class="action-search" href="#">
+            <i class="icon icon-search">
+            </i>
+           </a>
+          </li>
+         </ul>
+        </nav>
+        <nav class="nav-themes">
+         <ul>
+          <li data-name="applying-statistics">
+           <a class="" href="/theme/applying-statistics">
+            Характеристика статистики
+           </a>
+          </li>
+          <li data-name="bookshelf">
+           <a class="" href="/theme/bookshelf">
+            Книжная полка
+           </a>
+          </li>
+          <li data-name="Courses">
+           <a class="" href="/theme/Courses">
+            Курсы
+           </a>
+          </li>
+          <li data-name="coronavirus-history">
+           <a class="" href="/theme/coronavirus-history">
+            Коронавирусные хроники
+           </a>
+          </li>
+          <li data-name="offline">
+           <a class="" href="/theme/offline">
+            N + Offline
+           </a>
+          </li>
+         </ul>
+        </nav>
+       </div>
+      </div>
+      <div class="container line-up">
+       <div class="line line-second">
+        <a class="action-line-toggle" href="https://nplus1.ru/blog/2021/12/02/useful-delusions">
+         <div class="heading">
+          <span>
+          </span>
+         </div>
+        </a>
+        <a class="container-link" href="https://nplus1.ru/blog/2021/12/02/useful-delusions">
+         <div class="heading">
+          <span>
+           Книжная полка
+          </span>
+         </div>
+         <div class="link">
+          <span>
+           Шанкар Ведантам и Билл Меслер «Иллюзия правды. Почему наш мозг стремится обмануть себя и других?»
+          </span>
+         </div>
+        </a>
+        <a class="container-link" href="https://nplus1.ru/blog/2021/12/01/physics-problems">
+         <div class="heading">
+          <span>
+           Книжная полка
+          </span>
+         </div>
+         <div class="link">
+          <span>
+           Игорь Иванов «Как ломаются спагетти и другие задачи по физике»
+          </span>
+         </div>
+        </a>
+        <a class="container-link" href="https://nplus1.ru/blog/2021/11/30/into-the-abyss">
+         <div class="heading">
+          <span>
+           Книжная полка
+          </span>
+         </div>
+         <div class="link">
+          <span>
+           Энтони Дэвид «Глядя в бездну. Заметки нейропсихиатра о душевных расстройствах»
+          </span>
+         </div>
+        </a>
+        <a class="container-link" href="https://nplus1.ru/blog/2021/11/26/a-woman-s-heart">
+         <div class="heading">
+          <span>
+           Книжная полка
+          </span>
+         </div>
+         <div class="link">
+          <span>
+           Анджела Маас «Женское сердце. Современный подход к здоровью женщин»
+          </span>
+         </div>
+        </a>
+        <a class="container-link" href="https://nplus1.ru/blog/2021/11/25/deep-medicine">
+         <div class="heading">
+          <span>
+           Книжная полка
+          </span>
+         </div>
+         <div class="link">
+          <span>
+           Эрик Тополь «Искусственный интеллект в медицине»
+          </span>
+         </div>
+        </a>
+        <a class="container-link" href="https://nplus1.ru/blog/2021/11/23/the-russian-job">
+         <div class="heading">
+          <span>
+           Книжная полка
+          </span>
+         </div>
+         <div class="link">
+          <span>
+           Дуглас Смит «Российская миссия. Забытая история о том, как Америка спасла Советский Союз от гибели»
+          </span>
+         </div>
+        </a>
+        <a class="container-link" href="https://nplus1.ru/blog/2021/11/11/a-surgeons-notes-on-performance">
+         <div class="heading">
+          <span>
+           Книжная полка
+          </span>
+         </div>
+         <div class="link">
+          <span>
+           Атул Гаванде «Все возможное: Как врачи спасают наши жизни»
+          </span>
+         </div>
+        </a>
+        <a class="container-link" href="https://nplus1.ru/blog/2021/11/02/rudalle">
+         <div class="heading">
+          <span>
+           Мезонин
+          </span>
+         </div>
+         <div class="link">
+          <span>
+           Лучше синица в руках: о трудностях перевода
+          </span>
+         </div>
+        </a>
+        <a class="container-link" href="https://nplus1.ru/blog/2021/11/03/dune-climate">
+         <div class="heading">
+          <span>
+           Эксперименты
+          </span>
+         </div>
+         <div class="link">
+          <span>
+           Дюна: мы сделали модель планеты Арракис, чтобы узнать, выживет ли там человек
+          </span>
+         </div>
+        </a>
+        <a class="container-link active" href="https://nplus1.ru/blog/2021/12/06/the-god-equation">
+         <div class="heading">
+          <span>
+           Книжная полка
+          </span>
+         </div>
+         <div class="link">
+          <span>
+           Митио Каку «Уравнение Бога: В поисках теории всего»
+          </span>
+         </div>
+        </a>
+        <!-- here -->
+       </div>
+      </div>
+     </header>
+     <!-- /header -->
+     <!--  hero -->
+     <!-- /hero -->
+     <!-- main section -->
+     <section id="main">
+      <div class="container _middle">
+       <div class="row" data-adaptive="1" data-mobile-class="row-wrap" data-tablet-class="row-wrap">
+        <div class="col col-3" data-adaptive="1" data-mobile-class="col-1">
+         <article class="content" data-id="31632" data-type="0" data-visit="1" id="article">
+          <div class="meta">
+           <div class="tables">
+            <p class="table">
+             <a data-rubric="physics" href="/rubric/physics">
+              Физика
+             </a>
+             <a data-rubric="materials" href="/rubric/materials">
+              Материалы
+             </a>
+             <a data-theme="sound" href="/theme/sound">
+              Звук
+             </a>
+            </p>
+            <p class="table">
+             <a href="/news/2021/12/09">
+              <time content="2021-12-09" data-unix="1639057985" itemprop="datePublished">
+               <span>
+                16:53
+               </span>
+               <span>
+                09 Дек. 2021
+               </span>
+              </time>
+             </a>
+            </p>
+            <p class="table">
+             <a href="/difficult/6.4">
+              <span>
+               Сложность
+              </span>
+              <span class="difficult-value">
+               6.4
+              </span>
+             </a>
+            </p>
+           </div>
+          </div>
+          <script type="text/javascript">
+           var _dlData = {custom_rubric: []};
+        _dlData.custom_author = 'Марат Хамадеев';
+        _dlData.custom_difficult = '6.4';
+        _dlData.custom_rubric.push('Физика');
+            _dlData.custom_rubric.push('Материалы');
+            _dlData.custom_theme = 'Звук';
+        
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push(_dlData);
+          </script>
+          <div class="share-mobile">
+           <nav class="nav-share">
+            <ul class="social-likes">
+             <li class="facebook">
+             </li>
+             <li class="twitter">
+             </li>
+             <li class="vkontakte">
+             </li>
+             <li class="odnoklassniki">
+             </li>
+            </ul>
+           </nav>
+          </div>
+          <header class="hero hero-lite">
+           <div>
+            <h1>
+             Синтетическое калибровочное поле вынудило звук преломляться отрицательно
+            </h1>
+           </div>
+          </header>
+          <div class="body js-mediator-article">
+           <div class="article-image">
+            <figure>
+             <img src="https://nplus1.ru/images/2021/12/09/b0a408f3e6b232c17b3fab7fda41197f.jpg"/>
+             <figcaption>
+              <p class="title">
+              </p>
+              <p class="credits">
+               Yihao Yang et al. / Science Advances, 2021
+              </p>
+             </figcaption>
+            </figure>
+           </div>
+           <!-- -->
+           <!-- -->
+           <p>
+            Физики экспериментально продемонстрировали отрицательное преломление звуковых волн в акустических метаматериалах, вызванное возникновением синтетического калибровочного поля. Они показали, что на основе этого эффекта можно создать одностороннее зеркало и волновод. Исследование
+            <a href="https://www.science.org/doi/10.1126/sciadv.abj2062" rel="nofollow" target="_blank" title="Link: https://www.science.org/doi/10.1126/sciadv.abj2062">
+             опубликовано
+            </a>
+            в
+            <i>
+             Science Advances
+            </i>
+            .
+           </p>
+           <p>
+            Очень часто принципы и эффекты, которые возникают в релятивистской квантовой теории поля, находят свои аналоги в твердом теле. Так, большую пользу для физики принесла идея квантования колебаний кристаллической решетке по аналогии с квантованием полей в вакууме. Введенные таким путем квазичастицы — фононы — стали удобным и наглядным инструментом, без которого невозможно представить современную физику твердого тела. Другим примером может служить
+            <a href="https://nplus1.ru/news/2021/01/09/eine-kleine" target="_blank" title="Link: https://nplus1.ru/news/2021/01/09/eine-kleine">
+             наблюдение
+            </a>
+            разнообразных релятивистских эффектов с помощью квазичастиц, чья связь энергия-импульс по форме очень похожа на таковую у высокоэнергетических частиц.
+           </p>
+           <p>
+            Продолжая поиск идей, которые можно было бы наглядно наблюдать в новых материалах, ученые не так давно предложили концепцию синтетических калибровочных полей. Этот термин отсылает к калибровочной инвариантности, то есть, независимости физической теории от глобальных преобразований полей при смене базиса. Чтобы обеспечить эту инвариантность, когда возникают локальные калибровочные преобразования, физики вводят отдельные компенсирующие поля, тоже называемые калибровочными. Такой подход позволил естественным способом ввести в теорию взаимодействие через обмен полями-переносчиками, и, в конечном итоге, объединить всех их кроме гравитации в рамках Стандартной модели.
+           </p>
+           <p>
+            Оказалось, что похожий принцип реализуется в твердых телах, когда они подвергаются некоторым модуляциям. В этом случае влияние этих модуляций на поведение частиц в материале можно описать так, будто бы на них действуют некие поля, названные синтетическими. Эта идея уже была экспериментально реализована для модуляции в
+            <a href="https://www.nature.com/articles/s41566-019-0370-1" rel="nofollow" target="_blank">
+             пространстве
+            </a>
+            и во
+            <a href="https://www.pnas.org/content/116/50/24943" rel="nofollow" target="_blank">
+             времени
+            </a>
+            . Оказалось, что из-за деформации синтетическими полями дисперсионных соотношений для волн, в таких средах можно было бы
+            <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.111.203901" rel="nofollow" target="_blank">
+             наблюдать
+            </a>
+            новый тип отрицательной рефракции, которая традиционно ассоциируется с метаматериалами. Однако до недавнего времени эта идея оставалась лишь теоретической концепцией.
+           </p>
+           <p>
+            Группа физиков из Китая и Сингапура под руководством Идун Чун (Yidong Chong) и Байлэ Чжан (Baile Zhang) из Наньянского технологического университета впервые экспериментально продемонстрировала отрицательную рефракцию звука, вызванную возникновением синтетических калибровочных полей в акустическом метаматериале. Они показали, что таким образом можно реализовать волновод, проводящий звук в режиме противоположного направления фазовой и групповой скорости.
+           </p>
+           <p>
+            При обычном преломлении волн на границе двух сред, падающая и преломленная волны распространяются по разные стороны нормали к поверхности. Однако возможна обратная ситуация, которая соответствует отрицательной рефракции. Для этого дисперсионные свойства второй среды должны обладать некоторыми особенностями, которые в сочетании с условием непрерывности тангенциальной компоненты волнового вектора на границе обеспечивают необычное преломление. Все вместе это вынуждает волну распространяться во второй среде в направлении, которое не совпадает с направлением ее фазовой скорости.
+           </p>
+           <p>
+            Существует несколько схем искажения дисперсионных соотношений с помощью субволнового структурирования среды. Авторы остановили свой выбор на синтетическом калибровочном поле, которое смещают начало координат дисперсионной кривой во второй среде, причем тем сильнее, чем больше величина этого поля. В результате, начиная с некоторого порогового значения, отрицательное преломление становится единственно возможным в таком интерфейсе.
+           </p>
+           <p>
+            Чтобы создать калибровочное поле физики изготовили двухслойный скрученный акустический метаматериал. Каждый из его слоев представляет собой периодический массив из твердых пластин толщиной 3 миллиметра с интервалом 4,1 миллиметра. Закручивание второго слоя относительно первого наводит в нем муаровую модуляцию свойств, которые могут быть выражены через синтетическое поле, чья амплитуда зависит от угла закрутки и проекции волнового вектора на ось z, перпендикулярную слоям первого слоя.
+           </p>
+           <p>
+            Авторы заводили в такой двуслойный материал звуковые волны частотой несколько килогерц, соответствующие различным проекциям на ось z, и наблюдали получающийся при этом характер рефракции. Результаты эксперимента показали, что для некоторых проекций преломление действительно происходит в отрицательный режим, согласно простой аналитической зависимости. Физики дополнили их численными симуляциями, которые продемонстрировали полное согласие с опытом.
+           </p>
+           <p>
+            <div class="incut incut-gallery" data-id="31632">
+             <div class="swiper-container">
+              <div class="swiper-wrapper">
+               <div class="swiper-slide">
+                <figure>
+                 <div class="img">
+                  <img src="https://nplus1.ru/images/2021/12/09/64041e05d4b69c229dccfb3b200b2a4c.png"/>
+                 </div>
+                 <figcaption>
+                  <p class="title">
+                   Симуляция отрицательного преломления звуковой волны при амплитуде синтетического калибровочного поля, равной 150 обратным метрам. Снизу показаны изочастотные дисперсионные контуры и вектора групповых и фазовых скоростей для каждой из сред.
+                  </p>
+                  <p class="credits">
+                   Yihao Yang et al. / Science Advances, 2021
+                  </p>
+                 </figcaption>
+                </figure>
+                <div class="share-incut">
+                 <div class="title">
+                  <i class="fa fa-share">
+                  </i>
+                  <span>
+                   Поделиться
+                  </span>
+                 </div>
+                 <nav class="nav-share">
+                  <ul class="social-likes" data-title="Синтетическое калибровочное поле вынудило звук преломляться отрицательно">
+                   <li ,="" class="facebook" data-description="Yihao Yang et al. / Science Advances, 2021" data-image="https://nplus1.ru/images/2021/12/09/64041e05d4b69c229dccfb3b200b2a4c.png" data-service="facebook">
+                   </li>
+                   <li ,="" class="twitter" data-description="Yihao Yang et al. / Science Advances, 2021" data-image="https://nplus1.ru/images/2021/12/09/64041e05d4b69c229dccfb3b200b2a4c.png" data-service="twitter">
+                   </li>
+                   <li ,="" class="vkontakte" data-description="Yihao Yang et al. / Science Advances, 2021" data-image="https://nplus1.ru/images/2021/12/09/64041e05d4b69c229dccfb3b200b2a4c.png" data-service="vkontakte">
+                   </li>
+                   <li ,="" class="odnoklassniki" data-description="Yihao Yang et al. / Science Advances, 2021" data-image="https://nplus1.ru/images/2021/12/09/64041e05d4b69c229dccfb3b200b2a4c.png" data-service="odnoklassniki">
+                   </li>
+                  </ul>
+                 </nav>
+                </div>
+               </div>
+              </div>
+              <div class="pagination">
+               <div class="swiper-button-prev">
+               </div>
+               <div class="swiper-counter">
+               </div>
+               <div class="swiper-button-next">
+               </div>
+              </div>
+             </div>
+            </div>
+            Исследователи обратили также внимание на то, что синтетические калибровочные поля нарушают симметрию относительно обращения времени. Другими словами, в таких средах излучение, посланное обратно по той же траектории, может прийти в другое место. Авторы убедились в этом экспериментально, продемонстрировав акустическое односторонне зеркало. Они использовали это свойство интерфейса, чтобы изготовить трехслойный волновод. Изучая его модовый состав, физики показали, что в нем можно добиться распространения звука в режиме противоположных направлений фазовой и групповой скорости.
+           </p>
+           <p>
+            Нарушение Т-симметрии играет важную роль при создании черновских топологических изоляторов. Мы уже рассказывали, как физики
+            <a href="https://nplus1.ru/news/2019/01/16/acoustic-Chern" target="_blank">
+             изготовили
+            </a>
+            такой изолятор для акустических волн.
+           </p>
+           <p>
+            <i>
+             Марат Хамадеев
+            </i>
+           </p>
+          </div>
+         </article>
+         <!-- go go go -->
+         <!--AdFox START-->
+         <!--yandex_nplus1adv-->
+         <!--Площадка: N + 1 / * / *-->
+         <!--Тип баннера: Mobile_footer_300x250-->
+         <!--Расположение: низ страницы-->
+         <div id="adfox_163818699372686647">
+         </div>
+         <script>
+          window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 386110,
+            containerId: 'adfox_163818699372686647',
+            params: {
+                pp: 'i',
+                ps: 'fbio',
+                p2: 'hjcg'
+            }
+        })
+    })
+         </script>
+         <meter class="bottom">
+         </meter>
+        </div>
+        <div class="col col-1 sidebar" data-adaptive="1" data-tablet-class="col-full">
+         <nav class="nav-share">
+          <ul class="social-likes">
+           <li class="facebook">
+           </li>
+           <li class="twitter">
+           </li>
+           <li class="vkontakte">
+           </li>
+           <li class="odnoklassniki">
+           </li>
+          </ul>
+         </nav>
+         <div class="ad">
+          <!-- go go go -->
+          <!--AdFox START-->
+          <!--yandex_nplus1adv-->
+          <!--Площадка: N + 1 / * / *-->
+          <!--Тип баннера: Боковой_300x600-->
+          <!--Расположение: верх страницы-->
+          <div id="adfox_163818703040233699">
+          </div>
+          <script>
+           window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 386110,
+            containerId: 'adfox_163818703040233699',
+            params: {
+                pp: 'g',
+                ps: 'fbio',
+                p2: 'hiyr'
+            }
+        })
+    })
+          </script>
+         </div>
+         <meter class="top">
+         </meter>
+         <div data-adaptive="1" data-mobile-class="fixed" data-tablet-class="fixed" id="latest">
+          <h2 class="_tablet-hidden _mobile-hidden">
+           Свежее
+          </h2>
+          <div class="latest-container">
+           <article class="item item-news item-news-latest-first _exist-image" data-image="" data-relevance="">
+            <a data-id="31657" href="/news/2021/12/11/ixpe">
+             <div class="caption">
+              <img src="https://nplus1.ru/images/2021/12/11/23339b330d9919cd5e5f0b53990cb76c.jpg"/>
+              <div>
+               <div class="date">
+                <span class="name" title="2021-12-11">
+                 вчера
+                </span>
+               </div>
+               <h3>
+                NASA запустило космический телескоп IXPE для изучения поляризации рентгеновского излучения
+               </h3>
+              </div>
+             </div>
+            </a>
+           </article>
+           <article class="item item-news item-news- _exist-image" data-image="" data-relevance="">
+            <a data-id="31651" href="/news/2021/12/11/jwst-is-full">
+             <div class="caption">
+              <div class="date">
+               <span class="name" title="2021-12-11">
+                вчера
+               </span>
+              </div>
+              <h3>
+               «Джеймс Уэбб» заправили топливом
+              </h3>
+             </div>
+            </a>
+           </article>
+           <article class="item item-news item-news- _exist-image" data-image="" data-relevance="">
+            <a data-id="31652" href="/news/2021/12/11/burial-in-well">
+             <div class="caption">
+              <div class="date">
+               <span class="name" title="2021-12-11">
+                вчера
+               </span>
+              </div>
+              <h3>
+               Археологи нашли на Дону тройное погребение в заброшенном колодце
+              </h3>
+             </div>
+            </a>
+           </article>
+           <article class="item item-news item-news- _exist-image" data-image="" data-relevance="">
+            <a data-id="31653" href="/news/2021/12/11/omicron-variant">
+             <div class="caption">
+              <div class="date">
+               <span class="name" title="2021-12-11">
+                вчера
+               </span>
+              </div>
+              <h3>
+               Омикрон-вариант вызвал легкий ковид у троекратно привитых мРНК-вакциной
+              </h3>
+             </div>
+            </a>
+           </article>
+           <article class="item item-news item-news- _exist-image" data-image="" data-relevance="">
+            <a data-id="31644" href="/news/2021/12/11/soundify">
+             <div class="caption">
+              <div class="date">
+               <span class="name" title="2021-12-11">
+                вчера
+               </span>
+              </div>
+              <h3>
+               Нейросеть подобрала звуки для беззвучного видео
+              </h3>
+             </div>
+            </a>
+           </article>
+          </div>
+         </div>
+        </div>
+        <footer class="article-footer">
+         <div class="row">
+          <div class="col col-3" data-adaptive="1" data-mobile-class="col-1">
+           <p>
+            Нашли опечатку? Выделите фрагмент и нажмите Ctrl+Enter.
+           </p>
+          </div>
+          <div class="col col-1 _mobile-hidden _tablet-hidden">
+           <nav class="nav-share">
+            <ul class="social-likes">
+             <li class="facebook">
+             </li>
+             <li class="twitter">
+             </li>
+             <li class="vkontakte">
+             </li>
+             <li class="odnoklassniki">
+             </li>
+            </ul>
+           </nav>
+          </div>
+         </div>
+        </footer>
+        <div class="ad ad-footer">
+         <!-- go go go -->
+         <!--AdFox START-->
+         <!--yandex_nplus1adv-->
+         <!--Площадка: N + 1 / * / *-->
+         <!--Тип баннера: Нижний_баннер_960x400-->
+         <!--Расположение: низ страницы-->
+         <div id="adfox_163818697041091564">
+         </div>
+         <script>
+          window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 386110,
+            containerId: 'adfox_163818697041091564',
+            params: {
+                pp: 'i',
+                ps: 'fbio',
+                p2: 'hkts'
+            }
+        })
+    })
+         </script>
+        </div>
+       </div>
+       <div class="row row-wrap">
+       </div>
+       <div class="row row-wrap">
+        <div class="col col-full" data-adaptive="1" data-mobile-class="col-1">
+        </div>
+       </div>
+       <div class="row" data-adaptive="1" data-mobile-class="row-wrap" data-tablet-class="row-wrap" data-type="also">
+        <div class="col col-3" data-adaptive="1" data-mobile-class="col-1">
+         <section id="also">
+          <h4 class="pull-left">
+           Читайте также
+          </h4>
+          <div class="col col-also">
+           <article class="item item-news item-news-ill _exist-image" data-image="" data-relevance="">
+            <a data-id="31653" href="/news/2021/12/11/omicron-variant">
+             <div class="caption">
+              <div class="ill" style="background-image:url(https://nplus1.ru/images/2021/12/11/e771dc9ee3be2909c92e1da4eb4cdc2a.jpg)">
+              </div>
+              <h3>
+               Омикрон-вариант вызвал легкий ковид у троекратно привитых мРНК-вакциной
+              </h3>
+             </div>
+            </a>
+           </article>
+           <article class="item item-news item-news-ill _exist-image" data-image="" data-relevance="">
+            <a data-id="31642" href="/news/2021/12/10/child-mummy">
+             <div class="caption">
+              <div class="ill" style="background-image:url(https://nplus1.ru/images/2021/12/10/2b2a5daffbf7168dc8fe1ed9d40ee680.jpg)">
+              </div>
+              <h3>
+               Скифская девочка-воин из Тывы пострадала от рахита
+              </h3>
+             </div>
+            </a>
+           </article>
+           <article class="item item-news item-news-ill _exist-image" data-image="" data-relevance="">
+            <a data-id="31657" href="/news/2021/12/11/ixpe">
+             <div class="caption">
+              <div class="ill" style="background-image:url(https://nplus1.ru/images/2021/12/11/23339b330d9919cd5e5f0b53990cb76c.jpg)">
+              </div>
+              <h3>
+               NASA запустило космический телескоп IXPE для изучения поляризации рентгеновского излучения
+              </h3>
+             </div>
+            </a>
+           </article>
+          </div>
+         </section>
+        </div>
+        <div class="col col-1" data-adaptive="1" data-tablet-class="col-full _indent-bottom">
+         <section id="next">
+          <div class="col col-1" data-adaptive="1" data-tablet-class="col-2">
+           <article class="item item-article item-article-secondary _exist-image" data-image="https://nplus1.ru/images/2021/12/10/4df895d5fce9b1c72d0213de776ba506.gif" data-relevance="" style="background-image:url(https://nplus1.ru/images/2021/12/10/899383dd7181aff71011d8a84b720803.gif)">
+            <a data-id="31650" href="/material/2021/12/10/project-reproducibility-cancer-biology">
+             <div class="caption">
+              <h3>
+               Собака съела протокол
+              </h3>
+              <p class="subtitle">
+               Почему эксперименты онкобиологов воспроизводятся не лучше, чем у психологов
+              </p>
+             </div>
+            </a>
+            <nav class="nav-rubricator">
+             <ul>
+              <li>
+               <a class="link-rubric" href="/rubric/medicine">
+                Медицина
+               </a>
+              </li>
+              <li>
+               <a class="link-theme" href="/theme/explainatorium">
+                Давайте разберемся
+               </a>
+              </li>
+             </ul>
+            </nav>
+           </article>
+          </div>
+         </section>
+        </div>
+       </div>
+      </div>
+      <!--/div-->
+      <div id="_mistake">
+       <input name="_token" type="hidden" value="29DcxXHhK6voU0DPVt26xaLo4nz9EP7O58vSLK1q"/>
+       <input name="id_news" type="hidden" value="31632"/>
+       <input name="id_author" type="hidden" value="108"/>
+       <input name="id_editor" type="hidden" value="0"/>
+      </div>
+      <div id="_post">
+       <input name="_token" type="hidden" value="29DcxXHhK6voU0DPVt26xaLo4nz9EP7O58vSLK1q"/>
+       <input name="id_news" type="hidden" value="31632"/>
+      </div>
+     </section>
+     <!-- / main section -->
+     <div id="wrapper-footer">
+      <section class="_middle" id="difficult">
+       <!-- Slider main container -->
+       <div class="swiper-container">
+        <!-- Additional required wrapper -->
+        <div class="swiper-wrapper">
+         <div class="swiper-slide">
+          <div class="heading">
+           <div class="num">
+            <div class="value">
+             8.7
+            </div>
+           </div>
+           <p>
+            Коэффициент сложности
+           </p>
+          </div>
+          <h3>
+           <a href="/news/2021/12/10/heavy-dark-matter">
+            Ученые предложили новую модель темной материи с тяжелыми составными частицами
+           </a>
+          </h3>
+         </div>
+         <div class="swiper-slide">
+          <div class="heading">
+           <div class="num">
+            <div class="value">
+             8.3
+            </div>
+           </div>
+           <p>
+            Коэффициент сложности
+           </p>
+          </div>
+          <h3>
+           <a href="/news/2021/12/08/RABBIT">
+            Фотоионизация молекулы через резонанс формы потребовала более точной теории
+           </a>
+          </h3>
+         </div>
+         <div class="swiper-slide">
+          <div class="heading">
+           <div class="num">
+            <div class="value">
+             8.1
+            </div>
+           </div>
+           <p>
+            Коэффициент сложности
+           </p>
+          </div>
+          <h3>
+           <a href="/news/2021/12/07/qsl-with-atoms">
+            Физики создали управляемую спиновую жидкость
+           </a>
+          </h3>
+         </div>
+         <div class="swiper-slide">
+          <div class="heading">
+           <div class="num">
+            <div class="value">
+             7.9
+            </div>
+           </div>
+           <p>
+            Коэффициент сложности
+           </p>
+          </div>
+          <h3>
+           <a href="/news/2021/12/06/single-skyrmion-room-temperature">
+            Физики научились управлять отдельным магнитным скирмионом при комнатной температуре
+           </a>
+          </h3>
+         </div>
+         <div class="swiper-slide">
+          <div class="heading">
+           <div class="num">
+            <div class="value">
+             7.3
+            </div>
+           </div>
+           <p>
+            Коэффициент сложности
+           </p>
+          </div>
+          <h3>
+           <a href="/news/2021/12/10/multiphonon-subtraction">
+            Вычитание фононов с помощью света сделало звук неклассическим
+           </a>
+          </h3>
+         </div>
+         <div class="swiper-slide">
+          <div class="heading">
+           <div class="num">
+            <div class="value">
+             7.1
+            </div>
+           </div>
+           <p>
+            Коэффициент сложности
+           </p>
+          </div>
+          <h3>
+           <a href="/news/2021/12/07/inhomogeneous-universe-expansion">
+            Теоретики исследовали влияние неоднородностей на расширение Вселенной
+           </a>
+          </h3>
+         </div>
+         <div class="swiper-slide">
+          <div class="heading">
+           <div class="num">
+            <div class="value">
+             6.8
+            </div>
+           </div>
+           <p>
+            Коэффициент сложности
+           </p>
+          </div>
+          <h3>
+           <a href="/news/2021/12/06/LHC-Higgs-mass">
+            На Большом адронном коллайдере впервые измерили время жизни бозона Хиггса
+           </a>
+          </h3>
+         </div>
+         <div class="swiper-slide">
+          <div class="heading">
+           <div class="num">
+            <div class="value">
+             6.7
+            </div>
+           </div>
+           <p>
+            Коэффициент сложности
+           </p>
+          </div>
+          <h3>
+           <a href="/news/2021/12/10/nanographene-reduction">
+            Щелочные металлы селективно восстановили нанографен
+           </a>
+          </h3>
+         </div>
+         <div class="swiper-slide">
+          <div class="heading">
+           <div class="num">
+            <div class="value">
+             6.5
+            </div>
+           </div>
+           <p>
+            Коэффициент сложности
+           </p>
+          </div>
+          <h3>
+           <a href="/news/2021/12/07/gastrulation-vs-streak">
+            Стадию 14 дней назвали необязательной для развития зародышей человека in vitro
+           </a>
+          </h3>
+         </div>
+         <div class="swiper-slide">
+          <div class="heading">
+           <div class="num">
+            <div class="value">
+             6.4
+            </div>
+           </div>
+           <p>
+            Коэффициент сложности
+           </p>
+          </div>
+          <h3>
+           <a href="/news/2021/12/09/synthetic-gauge-field">
+            Синтетическое калибровочное поле вынудило звук преломляться отрицательно
+           </a>
+          </h3>
+         </div>
+        </div>
+        <!-- If we need pagination -->
+        <div class="swiper-pagination">
+        </div>
+        <div class="swiper-button-prev">
+        </div>
+        <div class="swiper-button-next">
+        </div>
+       </div>
+       <h6>
+        Самое сложное
+       </h6>
+      </section>
+      <div class="ad ad-col border">
+      </div>
+      <!-- footer -->
+      <footer id="footer">
+       <div class="row" data-adaptive="1" data-middle-class="row-wrap" data-mobile-class="row-wrap" data-tablet-class="row-wrap">
+        <div class="col col-logo">
+         <a class="link-logo" href="/">
+          <img src="/i/logo-alt.png"/>
+         </a>
+        </div>
+        <div class="col col-footer-desc">
+         <nav class="nav-pages">
+          <ul>
+           <li>
+            <a href="/about">
+             О нас
+            </a>
+           </li>
+           <li>
+            <a href="https://nplus.pro" target="_blank">
+             N + Production
+            </a>
+           </li>
+           <li>
+            <a href="/adv">
+             Рекламодателям
+            </a>
+           </li>
+           <li>
+            <a href="/rules">
+             Наши материалы
+            </a>
+           </li>
+           <li>
+            <a href="/vacancy">
+             Вакансии
+            </a>
+           </li>
+           <li>
+            <a href="/difficult">
+             Сложность
+            </a>
+           </li>
+          </ul>
+         </nav>
+         <div class="desc">
+          <p>
+           © 2021
+           <i>
+            N + 1
+           </i>
+           Интернет-издание   Свидетельство о регистрации СМИ Эл № ФС77-67614
+          </p>
+          <p>
+           Использование всех текстовых материалов без изменений в некоммерческих целях разрешается со ссылкой на
+           <i>
+            N + 1
+           </i>
+           . 
+                        Все аудиовизуальные произведения являются собственностью своих авторов и правообладателей и используются 
+                        только в образовательных и информационных целях. Если вы являетесь собственником того или иного произведения 
+                        и не согласны с его размещением на нашем сайте, пожалуйста, напишите на kirill@nplus1.ru
+          </p>
+          <p>
+           Материалы, опубликованные в разделе «Блоги», отражают позиции их авторов, которые могут не совпадать с мнением редакции.
+          </p>
+          <p>
+           Сайт может содержать контент, не предназначенный для лиц младше 18 лет.
+          </p>
+          <p>
+           Связь с редакцией:
+           <a href="mailto:info@nplus1.ru">
+            info@nplus1.ru
+           </a>
+          </p>
+          <p>
+           <a class="pd" href="https://nplus1.ru/personal-data-policy">
+            Политика обработки персональных данных пользователей сайта
+           </a>
+          </p>
+          <p>
+           <script async="" src="//s.luxupcdnc.com/t/consent_195458.js" type="text/javascript">
+           </script>
+           <a href="#" onclick="if(window.__lxG__consent__ !== undefined) {window.__lxG__consent__.showConsent()} else {alert('This function works only for users from the European Economic Area (EEA).')}; return false">
+            Change privacy settings
+           </a>
+          </p>
+          <p>
+          </p>
+         </div>
+        </div>
+        <div class="col col-1 pull-right">
+         <nav class="nav-social">
+          <ul>
+           <li>
+            <a href="https://t.me/nplusone">
+             <i class="fa fa-telegram">
+             </i>
+            </a>
+           </li>
+           <li>
+            <a href="http://vk.com/nplusone">
+             <i class="fa fa-vk">
+             </i>
+            </a>
+           </li>
+           <li>
+            <a href="https://www.facebook.com/nplusone">
+             <i class="fa fa-facebook">
+             </i>
+            </a>
+           </li>
+           <li>
+            <a href="https://twitter.com/nplusodin">
+             <i class="fa fa-twitter">
+             </i>
+            </a>
+           </li>
+           <li>
+            <a href="https://ok.ru/nplus1">
+             <i class="fa fa-odnoklassniki">
+             </i>
+            </a>
+           </li>
+           <li>
+            <a href="https://soundcloud.com/nplus_1">
+             <i class="fa fa-soundcloud">
+             </i>
+            </a>
+           </li>
+           <li>
+            <a href="/rss">
+             <i class="fa fa-rss">
+             </i>
+            </a>
+           </li>
+          </ul>
+         </nav>
+         <div class="partners">
+          <!-- Rating@Mail.ru counter -->
+          <script type="text/javascript">
+           var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "3084572", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = "https://top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+          </script>
+          <noscript>
+           <div>
+            <img alt="Top.Mail.Ru" src="https://top-fwz1.mail.ru/counter?id=3084572;js=na" style="border:0;position:absolute;left:-9999px;"/>
+           </div>
+          </noscript>
+          <!-- //Rating@Mail.ru counter -->
+         </div>
+        </div>
+       </div>
+      </footer>
+      <!-- / footer -->
+     </div>
+    </div>
+   </div>
+   <!-- Google Tag Manager -->
+   <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MNJC58');
+   </script>
+   <!-- End Google Tag Manager -->
+   <!-- Google Tag Manager (noscript) -->
+   <noscript>
+    <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-MNJC58" style="display:none;visibility:hidden" width="0">
+    </iframe>
+   </noscript>
+   <!-- End Google Tag Manager (noscript) -->
+   <noscript>
+    <div>
+     <img alt="" src="//mc.yandex.ru/watch/29654565" style="position:absolute; left:-9999px;"/>
+    </div>
+   </noscript>
+   <script src="/js/lib/js.cookie.js">
+   </script>
+   <script src="/js/lib/jquery.swap.js">
+   </script>
+   <script src="/js/lib/swiper.jquery.min.js">
+   </script>
+   <script src="/js/lib/svg.js">
+   </script>
+   <script src="/js/lib/jquery.mobile-events.min.js">
+   </script>
+   <script src="/js/lib/social-likes.min.js">
+   </script>
+   <script src="/js/lib/jquery.sticky.js">
+   </script>
+   <script src="/js/lib/ts.js">
+   </script>
+   <script src="/js/lib/js.cookie.js">
+   </script>
+   <script async="" src="https://cdn.onthe.io/io.js/QCyUUwp6IVuR">
+   </script>
+   <script>
+    window._io_config = window._io_config || {};
+window._io_config["0.2.0"] = window._io_config["0.2.0"] || [];
+window._io_config["0.2.0"].push({
+    page_url: document.location.toString(),
+    page_url_canonical: document.querySelector('link[rel="canonical"]').href,
+    page_title: document.querySelector('title').innerHTML,
+    page_type: "article",
+    page_language: "ru",
+    article_authors: [document.querySelector('meta[name="author"]').content || ''],
+    article_publication_date: (new Date(document.querySelector('meta[itemprop="datePublished"]').content).toUTCString()).toString()
+});
+   </script>
+   <!--   project scripts -->
+   <script src="/js/main.min.js?v=1633360304">
+   </script>
+   <!-- / project scripts -->
+   <!-- Quantcast Tag -->
+   <script type="text/javascript">
+    var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-s3ftDEFzEW5x7"
+});
+   </script>
+   <noscript>
+    <div style="display:none;">
+     <img alt="Quantcast" border="0" height="1" src="//pixel.quantserve.com/pixel/p-s3ftDEFzEW5x7.gif" width="1"/>
+    </div>
+   </noscript>
+   <!-- End Quantcast tag -->
+  </link>
+ </body>
+</html>
