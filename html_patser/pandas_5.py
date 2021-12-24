@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
+import numpy as np
 
 
 def main():
@@ -12,6 +13,7 @@ def main():
     soup = BeautifulSoup(text, "html.parser")
     trs = soup.select('table.wikitable')[2]
     
+    mass_Index = []
     mass_Country = []
     mass_HPI = []
     mass_Satis_Life = []
@@ -37,9 +39,8 @@ def main():
     'Ожидаемая продолжительность жизни' : mass_Long_Life, 
     'Экологический след' : mass_Eco})
 
-
+    df.index = np.arange(1, len(df)+1)
     print(df)
-
     df.to_csv(" html-Михайлов.csv")
 
 if __name__ == "__main__":
